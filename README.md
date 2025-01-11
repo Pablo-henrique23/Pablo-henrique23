@@ -15,3 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,c,cpp,python,django,js,html,css,php,mysql,java,go,docker)](https://skillicons.dev)
 
 ---
+
+## 🤝 Let's Connect
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pablo-silva-de-faria-29803a325)
