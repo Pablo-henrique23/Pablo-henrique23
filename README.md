@@ -1,22 +1,17 @@
-to be announced
-<!--<h1>Pablo Henrique</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+## 👋 Hi! I'm <strong>Pablo!</strong>
 
+> 🚀 I'm a Brazilian Computer Science undergraduate and enthusiast at UFJF.
+>
+> My biggest interests are in the area of High Performance Computing, Cybersecurity and ML.
 
-**Pablo-henrique23/Pablo-henrique23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ I began my journey in CS at the age of 12, and I've been amazed by computers since then!
 
-Here are some ideas to get you started:
+🔭 Right now I am researching about the efficiency of Multi-Instance GPU in High Performance clusters!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My skills
+
+[![My Skills](https://skillicons.dev/icons?i=git,c,cpp,python,django,js,html,css,php,mysql,java,go,docker)](https://skillicons.dev)
+
+---
