@@ -2,7 +2,7 @@
 
 > 🚀 I'm a Brazilian Computer Science undergraduate and enthusiast at UFJF.
 >
-> My biggest interests are in the area of High Performance Computing, Cybersecurity and ML.
+> My biggest interests are in the area of **High Performance Computing, Cybersecurity and ML.**
 
 ⚡ I began my journey in CS at the age of 12, and I've been amazed by computers since then!
 
