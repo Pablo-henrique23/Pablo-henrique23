@@ -6,7 +6,7 @@
 
 ⚡ I began my journey in CS by the age of 12, and I've been amazed by computers since then!
 
-🔭 Right now I am researching about the efficiency of Multi-Instance GPU in High Performance clusters!
+🔭 Right now I am researching about the efficiency of Multi-Instance GPU in High Performance clusters and working @ [CAEd](https://fundacaocaed.org.br/), a foundation dedicated to evaluate the educational system in Brazil and other countries!
 
 ---
 
