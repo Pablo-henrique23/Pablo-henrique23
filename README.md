@@ -12,7 +12,7 @@
 
 ## 🛠️ My skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,go,java,php,ts,js,html,css,django,nextjs,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,django,go,java,php,ts,nextjs,js,html,css,mysql,git)](https://skillicons.dev)
 
 ---
 
