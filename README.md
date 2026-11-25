@@ -6,7 +6,7 @@
 
 ⚡ I began my journey in CS by the age of 12, and I've been amazed by computers since then!
 
-🔭 Right now I am researching about the efficiency of Multi-Instance GPU in High Performance clusters @ [UFJF](https://www2.ufjf.br/ufjf/) and working at LEVTY!
+🔭 Right now I am researching about the efficiency of Multi-Instance GPU in High Performance clusters @ [UFJF](https://www2.ufjf.br/ufjf/) and working as a Software Engineer at LEVTY!
 
 ---
 
